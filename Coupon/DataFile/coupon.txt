@@ -1,0 +1,14 @@
+Apple MacAir 1199.00 0.10 15 Unused
+Lenovo Flex6 799.99 0.15 30 Unused
+Acer AspireE 599.99 0.20 60 Redeemed
+MSI GV62 999.00 0.05 7 Redeemed
+ASUS VivoF5 599.00 0.25 150 Unused
+Apple MacPro 1699.00 0.15 90 Unused
+Lenovo Ideapad 399.99 0.30 60 Expired
+Samsung Chrome 129.99 0.05 45 Expired
+HP PaX360 499.99 0.20 180 Unused
+Lenovo Think 1999.99 0.40 10 Unused
+Dell In15 549.97 0.35 120 Redeemed
+Dell M4800 489.00 0.45 360 Unused
+HP E840 599.99 0.60 30 Redeemed
+MSoft Surface 899.00 0.10 14 Expired
